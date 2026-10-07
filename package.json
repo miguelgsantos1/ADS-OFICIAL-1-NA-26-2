@@ -1,0 +1,10 @@
+{
+"name": "LOJA-ONLINE",
+"version": "1.0.0",
+"description": "projeto aula git",
+"scripts": {"lint": "eslint src"
+},
+"devDependencies": {
+    "eslint": "^10.12"
+  }
+}
